@@ -1,0 +1,10 @@
+{
+  "name": "alloy-bigquery",
+  "version": "0.1.0",
+  "description": "bigquery",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "dependencies": {
+    "googleapis-common": "^5.0.1"
+  }
+}
